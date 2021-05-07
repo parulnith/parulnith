@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋  I'm Parul 
 
-<!--
-**parulnith/parulnith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Here's what I do
+Data Science Evangelist @ [H2O.ai](https://www.h2o.ai/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Find out more about me at: www.parulpandey.com
+
+
+---
+
+### Check out my latest articles
+[here](https://pandeyparul.medium.com/)
+ 
