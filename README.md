@@ -6,6 +6,5 @@ Data Scientist @ [H2O.ai](https://www.h2o.ai/)
 Find out more about me at: www.parulpandey.com
 
 
-### Check out my blog
-[here](https://pandeyparul.medium.com/)
+I occasionall blog about Data Science. Check out my latest articles [here](https://pandeyparul.medium.com/)
  
