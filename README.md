@@ -2,14 +2,10 @@
 
 
 ### Here's what I do
-Data Science Evangelist @ [H2O.ai](https://www.h2o.ai/)
-
-
+Data Scientist @ [H2O.ai](https://www.h2o.ai/)
 Find out more about me at: www.parulpandey.com
 
 
----
-
-### Check out my latest articles
+### Check out my blog
 [here](https://pandeyparul.medium.com/)
  
