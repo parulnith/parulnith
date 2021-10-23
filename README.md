@@ -6,9 +6,9 @@ I am Parul working as a Data Scientist at [H2O.ai](www.h2o.ai). I combine data s
 
 * 💌 **Newsletter** : My [newsletter](http://newsletter.breakingthejargons.com/?via=twitter-profile-webview) contains a roundup of my articles and some useful community resources. You can read the various editions [here]: (http://newsletter.breakingthejargons.com/?via=twitter-profile-webview)
 
-* 🎤 Talks* : I also speak at conferences and Meetups which you can find [here](https://parulpandey.com/talks-2/).
+* 🎤 **Talks** : I also speak at conferences and Meetups which you can find [here](https://parulpandey.com/talks-2/).
 
-* 🏅 Kaggle* : I'm also a [Kaggle Grandmaster](https://www.kaggle.com/parulpandey) in the Notebooks category.
+* 🏅 **Kaggle** : I'm also a [Kaggle Grandmaster](https://www.kaggle.com/parulpandey) in the Notebooks category.
 
 
 
