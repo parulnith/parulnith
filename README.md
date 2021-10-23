@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-I am Parul working as a Data Scientist at [H2O.ai](www.h2o.ai). 
+I am Parul working as a Data Scientist at [H2O.ai](www.h2o.ai). I combine data science and developer advocacy in my work. I also like to write articles focussed on Data Science and Software development. Here are some of the ways to get to know more about my work:
 
-Find out more about me at: parulpandey.com. I occasionally blog about Data Science. Check out my latest articles [here](https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
+* ✍🏻 Blog : I mostly share my thoughts on data science via my [blog on Medium](https://medium.com/@pandeyparul) where you'll find different articles covering various aspects of the field.
+
+
+
+She also writes on her website named Breaking the Jargons where she breaks down complex machine learning jargons into easy to digest bits.I also write about by data science, machine ;earing occasionally blog about Data Science. Check out my latest articles [here](https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
