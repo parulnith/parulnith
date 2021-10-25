@@ -17,3 +17,14 @@ I am Parul working as a Data Scientist at [H2O.ai](www.h2o.ai). I combine data s
 * [Twitter](https://twitter.com/pandeyparul)
 * [Website](parulpandey.com)
 
+Some Markdown text.
+
+<form action="http://someothersite.com/" method="post">
+    <P>
+    <label for="name">Name: </label> <input type="text" id="name"><br>
+    <label for="email">Email: </label> <input type="text" id="email"><br>
+    <input type="submit" value="Send">
+    </P>
+</form>
+
+More Markdown text.
