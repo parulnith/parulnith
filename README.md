@@ -15,5 +15,5 @@ I am Parul working as a Data Scientist at [H2O.ai](www.h2o.ai). I combine data s
 ### Connect with me
 * [Linkedin](tinyurl.com/parulpandey)
 * [Twitter](https://twitter.com/pandeyparul)
-* [Website](parulpandey.com)
+* [Website](https://parulpandey.com)
 
