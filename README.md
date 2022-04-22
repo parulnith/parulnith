@@ -2,7 +2,7 @@
 
 I am Parul and I work as a Machine Learning Engineer at [Weights & Biases](https://wandb.ai/site). Previously I worked as a Data Scientist at [H2O.ai](www.h2o.ai). I combine data science and developer advocacy in my work. I also like to write articles focussed on Data Science and Software development.Im also co-authoring a book on [Machine learning for High Risk Applications](https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/cover.html).
 
-![](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098102425/files/assets/cover_ER_sponsor.png | width=100)
+![](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098102425/files/assets/cover_ER_sponsor.png =250x250)
 
 Here are some of the ways to get to know more about my work:
 
