@@ -10,7 +10,7 @@ Here are some of the ways to get to know more about my work:
 
 
 <embed src="https://github.com/parulnith/Data-Science-Articles/blob/main/Presentation1.pdf" type="application/pdf">
-
+<iframe src="https://drive.google.com/drive/u/0/my-drive"></iframe>
 
 * 💌 **Newsletter** : My [newsletter](https://www.linkedin.com/newsletters/breaking-the-jargons-6868134084640555008) contains a roundup of my articles and some useful community resources. You can read the various editions [here](http://newsletter.breakingthejargons.com/?via=twitter-profile-webview)
 
