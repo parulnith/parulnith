@@ -6,7 +6,7 @@ I am Parul and I work as a Machine Learning Engineer at [Weights & Biases](https
 
 Here are some of the ways to get to know more about my work:
 
-* ✍🏻 **Blog** : I mostly share my thoughts on data science via my [blog on Medium](https://medium.com/@pandeyparul) where you'll find different articles covering various aspects of the field. You can find these articles organized into different categories [here](https://github.com/parulnith/Data-Science-Articles). Some of my tutorials have been included in the documentation of the libraries :
+* ✍🏻 **Blog** : I mostly share my thoughts on data science via my [blog on Medium](https://medium.com/@pandeyparul) where you'll find different articles covering various aspects of the field. You can find these articles organized into different categories [here](https://github.com/parulnith/Data-Science-Articles). Some of my tutorials have been included in the documentation of the libraries. Click on the image below to know more👇
 
 <a href="Presentation1.pdf" class="image fit"><img src="article.png" alt=""></a>
 
