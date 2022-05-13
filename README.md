@@ -8,7 +8,7 @@ Here are some of the ways to get to know more about my work:
 
 * ✍🏻 **Blog** : I mostly share my thoughts on data science via my [blog on Medium](https://medium.com/@pandeyparul) where you'll find different articles covering various aspects of the field. You can find these articles organized into different categories [here](https://github.com/parulnith/Data-Science-Articles). Some of my tutorials have been included in the documentation of the libraries :
 
-<object data="presentation.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="Presentation1.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 * 💌 **Newsletter** : My [newsletter](https://www.linkedin.com/newsletters/breaking-the-jargons-6868134084640555008) contains a roundup of my articles and some useful community resources. You can read the various editions [here](http://newsletter.breakingthejargons.com/?via=twitter-profile-webview)
 
