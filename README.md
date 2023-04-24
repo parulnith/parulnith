@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Parul and I work as a Data Scientist at [H2O.ai](www.h2o.ai).Previously I worked as a Machine Learning Engineer at [Weights & Biases](https://wandb.ai/site). I combine data science and developer advocacy in my work. I also like to write articles focussed on Data Science and Software development.Im also co-authoring a book on [Machine learning for High Risk Applications](https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/cover.html).
+I am Parul and I work as a Data Scientist at [H2O.ai](www.h2o.ai).Previously I worked as a Machine Learning Engineer at [Weights & Biases](https://wandb.ai/site). I combine data science and developer advocacy in my work. I also like to write articles focussed on Data Science and Software development. I have also co-authored a book on [Machine learning for High Risk Applications](https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/cover.html).
 
 <img src="https://github.com/parulnith/parulnith/blob/main/book.jpg" width="300" height="400">
 
